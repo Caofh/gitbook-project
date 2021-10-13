@@ -37,7 +37,7 @@
     "pluginsConfig": {
         "theme-hqbook":{
             "favicon": "/favicon.ico",
-            "logo":"http://doc.jd.com/retail-cloud/cms/assets/pic/logo.png",
+            "logo":"https://tpdoc.cn/api_2020_public/img/saveImg/syzifucvry1628070618597.png",
             "search-placeholder":"输入关键字搜索",
 			"copyButtons": true,
 			"copyLines": true,
