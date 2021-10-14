@@ -10,3 +10,18 @@
     * [git](https://git-scm.com/downloads)
     * [gitbook](https://www.gitbook.com/?t=11)，[安装参考](http://gitbook.zhangjikai.com/installation.html)
 
+* 安装依赖
+    ```
+    npm i gitbook-cli -g
+    ```
+
+    ```
+    npm run serve
+    ```
+
+    ```
+    npm run build
+    ```
+
+* 注意：node需要低版本； 7.7.1 版本亲测有效；
+

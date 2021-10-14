@@ -62,7 +62,7 @@
         },
         "edit-link-plus": {
             "base": "https://github.com/Caofh/gitbook-project/blob/master",
-            "label": "点我反馈"
+            "label": "编辑当前页"
         }
     }
 }
