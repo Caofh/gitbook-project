@@ -21,7 +21,8 @@
         "prism",
         "search-pro",
         "custom-html-footer",
-        "hide-element"
+        "hide-element",
+        "edit-link-plus"
     ],
     "variables": {
         "themeHqbook":{
@@ -58,6 +59,10 @@
         },
         "hide-element": {
             "elements": [".pull-right"]
+        },
+        "edit-link-plus": {
+            "base": "https://github.com/Caofh/gitbook-project/blob/master",
+            "label": "点我反馈"
         }
     }
 }
